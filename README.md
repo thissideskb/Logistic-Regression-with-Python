@@ -1,5 +1,4 @@
 # Logistic-Regression-with-Python
-# Logistic Regression with Python
 
 This repository demonstrates Logistic Regression concepts through hands-on examples.  
 It contains simple, practical notebooks showing training, regularization, multiclass strategies, hyperparameter tuning, feature scaling, and dealing with imbalanced classes.
